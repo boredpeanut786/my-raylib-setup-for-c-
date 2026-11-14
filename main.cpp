@@ -36,7 +36,7 @@ public:
 
     // Draw ball
     void draw() {
-        DrawCircle(x, y, radius, BLUE);
+        DrawCircle(x, y, radius, YELLOW);
     }
 };
 
